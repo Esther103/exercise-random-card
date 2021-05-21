@@ -1,0 +1,10 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&display=swap');
+
+i,p{
+    font-size: 60px;
+}
+
+p{
+    font-family: 'Inconsolata', monospace;
+}
